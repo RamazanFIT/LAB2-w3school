@@ -1,6 +1,6 @@
 set_1 = {1, 2, 3, 4, 5, 6}
 set_2 = {1, 2, 3}
-set_3 = {1, 2, 3, 10, 12, 13}
+set_3 = {1, 2, 3, 5}
 print(set_2.issubset(set_1))
 print(set_3.issubset(set_1))
 

@@ -3,6 +3,7 @@ class myclass():
     return 0
 
 myobj = myclass()
+myobj.__len__()
 print(bool(myobj))
 
 # ОК
